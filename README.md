@@ -8,5 +8,6 @@ To see a demo of the visualization, reveal the image below, but take caution: im
 
 <details>
 <summary>Reveal image</summary>
+
 ![sbc_1_large](https://user-images.githubusercontent.com/82218266/146014612-fd8ca77a-c064-48f0-b77b-0e2dfd3073c0.gif)
 </details>
